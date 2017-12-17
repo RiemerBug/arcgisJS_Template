@@ -1,0 +1,30 @@
+{
+  "name": "arcgisJS_Template",
+  "author": "RiemerBug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "preinstall": "bower install"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/arcgis-js-api": "^4.5.1",
+    "dojo-typings": "^1.11.9",
+    "grunt": "^1.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-dojo": "^1.1.1",
+    "grunt-processhtml": "^0.4.1",
+    "grunt-sass": "^2.0.0",
+    "grunt-tslint": "^5.0.1",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2",
+    "uglify-js": "^2.7.5"
+  }
+}
